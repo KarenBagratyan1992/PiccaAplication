@@ -1,9 +1,8 @@
 package com.example.myapplication
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.recyclerview.widget.RecyclerView.Recycler
-import com.example.myapplication.databinding.ActivityMainBinding
+import androidx.appcompat.app.AppCompatActivity
+import com.example.namespace.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     var binding: ActivityMainBinding? = null
